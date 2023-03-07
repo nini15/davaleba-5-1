@@ -1,0 +1,39 @@
+body{
+  background-color: white;}
+.box{
+  background-color:#FAFAFA;
+  width: 562px;
+  height: 818px;
+  left: 439px;
+  top: 341px;
+  border: 1px solid #DCDCDC
+  }
+   .cool{
+    width: 159.24px;
+    height: 146.57px;
+    left: 640px;
+    top: 438px;
+    }
+     .t{
+      width: 273px;
+      height: 40px;
+      left: 578px;
+      top: 651px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 30px;
+      line-height: 36px;
+      }
+       .paragraph{
+        width: 476px;
+        height: 311px;
+        left: 482px;
+        top: 750px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 23px;
+        text-align: center;
+        }
